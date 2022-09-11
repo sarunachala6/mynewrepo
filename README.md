@@ -2,4 +2,4 @@
 ## My New Repo
 
 <!-- This comment -->
-[Image:](github_PNG28.png)
+For Picture (github_PNG28.png)
